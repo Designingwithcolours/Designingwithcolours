@@ -12,9 +12,9 @@ Monochromatic color schemes are made up of different tones, shades and tints. Th
  ![monochrome-blue](monochrome-blue.jpg "monochrome-blue")
  ![monochrome-gold](monochrome-gold.jpg "monochrome-gold")
  
- 
 
 ## analogous
 
+Analogous color schemes are one of easiest colour schemes to create. they are created by using three colors that are next to each other on the 12-spoke color wheel. analogous color schemes generally all have the same chroma level, but by using tones, shades and tints we can add interest to these schemes and adapt them to designing websites.
 
 ## complementary
