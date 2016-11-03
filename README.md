@@ -8,8 +8,11 @@ A hue is one of the main properties of a color, defined technically, as "the deg
 
 ## Monochrome
 Monochromatic color schemes are made up of different tones, shades and tints. These are the easiest color schemes to create, because they’re all taken from the same hue, making it harder to create an ugly scheme.
-
- ! monochrome-blue.jpg(monochrome-blue.jpg)"monochrome-blue"
+ 
+ ![monochrome-blue](monochrome-blue.jpg "monochrome-blue")
+ ![monochrome-gold](monochrome-gold.jpg "monochrome-gold")
+ 
+ 
 
 ## analogous
 
