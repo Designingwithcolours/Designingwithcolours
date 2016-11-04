@@ -40,6 +40,6 @@ Complementary schemes are created by combining colors from opposite sides of the
  
  [England Rugby](http://www.englandrugby.com/#)
  
- [Amazon](https://www.amazon.co.uk/)
+ [Ferrari](http://www.ferrari.com/en_gb/)
  
  [BBC News](http://www.bbc.co.uk/news)
