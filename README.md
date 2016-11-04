@@ -31,3 +31,14 @@ Complementary schemes are created by combining colors from opposite sides of the
  ![comp-purplegreen](comp-purplegreen.jpg "comp-purplegreen")
 
  ![comp-orangeblue](comp-orangeblue.jpg "comp-orangeblue")
+ 
+ 
+ [Premier League](https://www.premierleague.com/)
+ 
+ [UEFA](http://www.uefa.com/)
+ 
+ [England Rugby](http://www.englandrugby.com/#)
+ 
+ [Amazon](https://www.amazon.co.uk/)
+ 
+ [BBC News](http://www.bbc.co.uk/news)
